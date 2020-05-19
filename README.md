@@ -1,2 +1,2 @@
 # simply_notif
-Simple Notification.
+Simple Notification adalah sebuah thirdparty untuk notif.
